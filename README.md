@@ -3,7 +3,7 @@
 ## Overview: 
 [HaveIBeenPawned](https://haveibeenpwned.com/) is a well-known website which aggregegates email breach data. It allows people to search their email address via the website and they also have an API.
 
-This script and jupyter notebook allow you to run your own list of emails against the API to find out if they appear in any breaches that HIBP have loaded. 
+This script and jupyter notebook allow you to run your own list of emails against the Have I Been Pawned API to find out if they appear in any breaches that HIBP have loaded. 
 
 ## What this repo contains
 A jupyer notebook and an equivalent script
